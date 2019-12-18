@@ -4,12 +4,14 @@ Raspberry Pi Zero W
 Capteur de mouvement : HC-SR501
 Carte mémoire : SanDisk - SDSQUAR-016G-GN6MA (16GO - 98Mo/s)
 Alimentation : ukru® Alimentation 5v 2000mA
+Raspberry Pi Camera à vision nocturne FIshEye 5MP avec 2 IR
 
-Cout total : 25.47€ (hors boitier)
+Cout total : 40.37€ (hors boitier)
 
 Serveur :
 -----------------------------------------------------------------------------------------------------------------------------------------------
-Raspberry Pi 3 Modèle B+ 1 GB
+Raspberry Pi 3 Modèle B+ 1 GB ? 
+-->Pour des raison économique, étudier l'utilisation d'une Raspberry Carte mère PI 3 Modèle A+ (~20€ d'économie)
 Carte Mémoire microSDXC SanDisk Ultra 64GB
 
 En cours de rédaction...
