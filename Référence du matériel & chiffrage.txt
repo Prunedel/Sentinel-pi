@@ -19,8 +19,9 @@ Carte Mémoire microSDXC SanDisk Ultra 64GB
 ------Dans le cas d'utilisation d'une sirène piloté par le serveur------
 La sirène doit obligatoirement avoir 12v et ~180mA
 
-Transistor + DC-DC boost 5v - 12V
-Batterie 5v (trouver un moyen pour la brancher sur le Pi)
+Transistor + DC-DC boost 5v - 12V (à voir si la batterie suffit à alimenter la Pi + la sirène)
+Joy-it StromPi 2 RB-Strompi2 (permet de brancher une alimentation secondaire au Pi (pile, batterie,...) en cas de coupure de 
+l'alimentation principal
 Sirène >110dB
 ------------------------------------------------------------------------
 
